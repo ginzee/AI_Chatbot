@@ -30,7 +30,7 @@ This notebook implements a conversational assistant that:
 - Asks clarifying questions when inputs are underspecified
 - Provides pragmatic, analytics-oriented career guidance
 
-The assistant is intentionally scoped as a **decision-support prototype**, not a production chatbot or recruitment system.
+The assistant is intentionally scoped as a **decision-support prototype**, not a production chatbot or recruitment system. This project focuses on chatbot personalization through system prompt design, response constraints, and conversational memory rather than generic question-answering.
 
 ---
 
